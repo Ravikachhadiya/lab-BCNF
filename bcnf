@@ -1,0 +1,4 @@
+user(regno, name, dob, phone, gender)
+courseofuser(regno, cid)
+course(cid, cname)
+ins(ins_id, ins_name, ins_office)
